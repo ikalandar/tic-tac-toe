@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import tkinter
 from tkinter import messagebox
 queue = 'X'
